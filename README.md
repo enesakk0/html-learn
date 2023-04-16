@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="1200px-Devicon-html5-plain.svg.png" width="300" height="200"/>
+  <img src="1200px-Devicon-html5-plain.svg.png" width="200" height="200"/>
 </p>
