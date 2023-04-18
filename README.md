@@ -21,6 +21,11 @@
 
 <ul>
   <li><a href="#temel-html">Temel HTML etiketlerine genel bakış</a></li>
+    <ul>
+      <li><a href="#yazim-html">Yazım HTML etiketleri</a></li>
+      <li>Resim HTML etiketleri</li>
+      <li>Breakline (br) ve (hr) etiketleri</li>
+    </ul>
   <li>Semantic HTML etiketleri</li>
   <li>Blok ve inline elementler</li>
   <li>Liste etiketleri</li>
@@ -78,3 +83,23 @@
 
 <p>Body etiketi ise sitemizde yer alan tüm içerikleri, görselleri, makaleleri vb. kısacası tüm içeriklerimizin yer aldığı etiket olarak yer almaktadır.</p>
 
+```md
+<body>
+  <h1>The p element</h1>
+  <p>This is a paragraph.</p>
+  <p>This is a paragraph.</p>
+  <p>This is a paragraph.</p>
+</body>
+```
+
+<h3 id="yazim-html">Yazım HTML Etiketleri</h3>
+<hr>
+
+<h4>Strong Etiketi</h4>
+<p>HTML üzerinde oluşturduğumuz metin veya parargrafları tüm kelimelerini veya belirli kelimeleri kalın yapabileceğimiz bir HTML etikedir. Kullanımı aşağıdaki gibidir.</p>
+
+```md
+<body>
+<p>Bu bir <strong>strong (bold)</strong> bir metindir.</p>
+</body>
+```
