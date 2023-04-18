@@ -96,10 +96,19 @@
 <hr>
 
 <h4>Strong Etiketi</h4>
-<p>HTML üzerinde oluşturduğumuz metin veya parargrafları tüm kelimelerini veya belirli kelimeleri kalın yapabileceğimiz bir HTML etikedir. Kullanımı aşağıdaki gibidir.</p>
+<p>HTML üzerinde oluşturduğumuz metin veya parargrafları tüm kelimelerini veya belirli kelimeleri <strong>kalın</strong> yapabileceğimiz bir HTML etikedir. Kullanımı aşağıdaki gibidir.</p>
 
 ```md
 <body>
 <p>Bu bir <strong>strong (bold)</strong> bir metindir.</p>
+</body>
+```
+
+<h4>Em Etiketi</h4>
+<p>HTML üzerinde oluşturduğumuz metin veya parargrafları tüm kelimelerini veya belirli kelimeleri <em>italik</em> yapabileceğimiz bir HTML etikedir. Kullanımı aşağıdaki gibidir.</p>
+
+```md
+<body>
+<p>Bu bir <em>em (italik)</em> bir metindir.</p>
 </body>
 ```
