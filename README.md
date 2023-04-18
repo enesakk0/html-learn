@@ -39,8 +39,42 @@
   
  ├── html <br>
      &nbsp;  ├── <a href="#header">header</a> <br>
-     &nbsp;  ├── body
+     &nbsp;  ├── <a href="#body">body</a>
      
-<h4 id="header">Header Etiketi</h4>
+<h3 id="header">Header Etiketi</h3>
 
 <p>Web sitemizde özellike SEO ayarları veya sitenin metatagleri için kullanabileceğimiz alanı oluşturmaktadır. Burada girilen kodlar veya etiketler sitemiz içerisinde yer alan fakat görsellik anlamında bir değişiklik yapmazlar.</p>
+
+<p>Metatag etiketleri sayı olarak biraz fazla olup genel bir HTML sayfasında genel olarak aşağıdaki Metatagler sık sık kullanılmaktadır.</p>
+
+<p>Metatagleri kullanılırken aşağıdaki söz dizimi ile kullanılmaktadır.</p>
+
+```md
+<meta name="">
+```
+
+<table>
+<thead>
+  <td><strong>Metatag Etiketi</strong></td>
+  <td><strong>Açıklama</strong></td>
+</thead>
+<tbody>
+  <tr>
+    <td>name="description"</td>
+    <td>Arama motorlarında çıkan sonuçlarında sitelerin açıklaması olarak gözükmektedir.</td>
+  </tr>
+  <tr>
+    <td>name="keywords"</td>
+    <td>Arama motorları sorgulamaların sitelerin indexlenmesinde anahtar kelimelerini belirlemektedir.</td>
+  </tr>
+  <tr>
+    <td>charset="UTF-8"</td>
+    <td>Web sitesini emoji ve türkçe karaktere uygun olacak şekilde (utf-8) olarak kodlar.</td>
+  </tr>
+</tbody>
+</table>
+
+<h3 id="body">Body Etiketi</h3>
+
+<p>Body etiketi ise sitemizde yer alan tüm içerikleri, görselleri, makaleleri vb. kısacası tüm içeriklerimizin yer aldığı etiket olarak yer almaktadır.</p>
+
