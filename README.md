@@ -23,8 +23,8 @@
   <li><a href="#temel-html">Temel HTML etiketlerine genel bakış</a></li>
     <ul>
       <li><a href="#yazim-html">Yazım HTML etiketleri</a></li>
-      <li>Resim HTML etiketleri</li>
-      <li>Breakline (br) ve (hr) etiketleri</li>
+      <li><a href="#resim-html">Resim HTML etiketleri</a></li>
+      <li><a href="#br-hr-html">Breakline (br) ve (hr) etiketleri</a></li>
     </ul>
   <li>Semantic HTML etiketleri</li>
   <li>Blok ve inline elementler</li>
@@ -112,3 +112,36 @@
 <p>Bu bir <em>em (italik)</em> bir metindir.</p>
 </body>
 ```
+
+<h3 id="resim-html">Resim Etiketleri</h3>
+<hr>
+
+<p>HTML üzerinde yazım ve paragraf dışında resimleri ekleyebileceğimiz metotlarda mevcut olup, aşağıdaki şekilde kullanılmaktadır.</p>
+
+```md
+<body>
+<img src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Logo.png" alt="Github Logo">
+<!-- Burada yer alt etiketi resmin yüklenemediği zaman resmin açıklaması olarak yazan bir metindir. -->
+</body>
+```
+<img src="https://teknolojio.com.tr/uploads/2020/12/github-nedir.png" alt="Github Logo" width="200">
+
+<h3 id="br-hr-html">Breakline ve HR Etiketleri</h3>
+<hr>
+
+<p>br ve hr etiketleri yeni bir satıra geçerken veya yeni bir satıra çizgi bir satır oluşturuken kullanabileceğimiz etiketlerdir denebilir.</p>
+
+```md
+<body>
+<p>Enes Akkaya</p>
+<br>
+<p>enesakkayapr@gmail.com</p>
+<hr>
+<p>linkedin.com/enesakkaya</p>
+</body>
+```
+<p><strong>İsim Soyisim: </strong>Enes Akkaya</p>
+<p><strong>Mail Adresi: </strong>enesakkayapr@gmail.com</p>
+<hr>
+
+
