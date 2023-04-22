@@ -26,7 +26,7 @@
       <li><a href="#resim-html">Resim HTML etiketleri</a></li>
       <li><a href="#br-hr-html">Breakline (br) ve (hr) etiketleri</a></li>
     </ul>
-  <li>Semantic HTML etiketleri</li>
+  <li><a href="#semantic-html">Semantic HTML etiketleri</a></li>
   <li>Blok ve inline elementler</li>
   <li>Liste etiketleri</li>
   <li>VS Code Emmet Kullanımı</li>
@@ -144,4 +144,42 @@
 <p><strong>Mail Adresi: </strong>enesakkayapr@gmail.com</p>
 <hr>
 
+<h3 id="semantic-html">Semantic HTML Etiketleri</h3>
+<hr>
 
+<p>HTML yapılarında hem kodlama açısından hemde SEO optimizasyonu açısında MDN tarafından detaylı ele alınmış semantic HTML etiketler bulunmaktadır. Aşağıda sık olarak kullanılan semantic etiketler yer almaktadır.</p>
+
+<table>
+  <thead>
+    <tr>
+      <td>Etiket</td>
+      <td style="text-align:center">Açıklama</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Main</td>
+      <td>Sayfa içerisinde ana içeriği vurgulamak için kullanılan etiketdir, ve SEO optimizasyonu açısından sadece bir defa kullanılmaktadır.</td>
+    </tr>
+     <tr>
+      <td>Header</td>
+      <td>İsminden de anlaşılacağı üzere sitemizde yer alan bölümlerin en üst sayfa başlığının yer aldığı bölümlerde kullanılmaktadır.</td>
+    </tr>
+    <tr>
+      <td>Nav</td>
+      <td>Kısaltması Navbar olarak yer alan semantic etiket olarak geçmektedir, genellikle menü yapılarında kullanılmaktadır.</td>
+    </tr>
+    <tr>
+      <td>Section</td>
+      <td>Section etiketi genel bir etiket olup sitemiz içerisinden yer alan (div etiketleri gibi) yapıları bölüm bölüm ayırabileceğimiz yapılarda kullanılmaktadır.        </td>
+    </tr>
+    <tr>
+      <td>Article</td>
+      <td>Sitemiz içerisinde yer alan özellikle makale tarzı içeriklerde article etiketi kullanılmaktadır.</td>
+    </tr>
+    <tr>
+      <td>Footer</td>
+      <td>Header etiketinde olduğu gibi sitemizin alt menüsünü için kullanılan yapılarda kullanılmaktadır.</td>
+    </tr>
+  </tbody>
+</table>
