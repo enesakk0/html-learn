@@ -25,6 +25,7 @@
       <li><a href="#yazim-html">Yazım HTML etiketleri</a></li>
       <li><a href="#resim-html">Resim HTML etiketleri</a></li>
       <li><a href="#br-hr-html">Breakline (br) ve (hr) etiketleri</a></li>
+      <li><a href="#header-html">HTML Header ve Metatag yapıları</a></li>
     </ul>
   <li><a href="#semantic-html">Semantic HTML etiketleri</a></li>
   <li>Blok ve inline elementler</li>
@@ -32,7 +33,6 @@
   <li>VS Code Emmet Kullanımı</li>
   <li>Tablo yapıları</li>
   <li>Form yapıları</li>
-  <li>HTML Header Metatag yapıları</li>
 </ul>
 
 <h3 id="temel-html">Temel HTML Etiketleri</h3>
@@ -43,10 +43,10 @@
 İşaretleme sıraları aşağıdaki gibidir.</p>
   
  ├── html <br>
-     &nbsp;  ├── <a href="#header">header</a> <br>
+     &nbsp;  ├── <a href="#header-html">header</a> <br>
      &nbsp;  ├── <a href="#body">body</a>
      
-<h3 id="header">Header Etiketi</h3>
+<h3 id="header-html">Header Etiketi</h3>
 
 <p>Web sitemizde özellike SEO ayarları veya sitenin metatagleri için kullanabileceğimiz alanı oluşturmaktadır. Burada girilen kodlar veya etiketler sitemiz içerisinde yer alan fakat görsellik anlamında bir değişiklik yapmazlar.</p>
 
