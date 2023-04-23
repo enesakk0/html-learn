@@ -207,9 +207,17 @@
 <h4>Inline Element</h4>
 <p>Inline elementler sadece kaplandığı alan kadar yer kaplarlar. Block elementlere nazaran tüm satırları değil, sadece yazıldığı alan kadar yer kaplamaktadır. Aşağıdaki örnekte gözüktüğü gibi</p>
 
-<img src="inline.png" alt="HTML5 Logo"/>
+<img src="inline.png" alt="inline Element Resmi" />
 
 <h4>Block Element</h4>
 <p>block elementler ise bulunduğu alan değil tüm satırı kaplar ve bir sonraki satıra geçiş yapmaktadır. Inline arasındaki en temel fark ise budur.</p>
 
-<img src="block.png" alt="HTML5 Logo"/>
+<img src="block.png" alt="Block Element Resmi" />
+
+
+<h3 id="liste-etiketleri-html">Liste Etiketleri</h3>
+<hr>
+
+<p>HTML yapılarında iki tür liste kullanımı bulunmaktadır. Özellikle menü yapılarında kullanılmaktadır. Sıralı ve sırasız olmak üzere iki çeşit liste bulunmaktadır.</p>
+
+<h4>Sıralı Listeler</h4>
