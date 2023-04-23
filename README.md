@@ -28,7 +28,7 @@
       <li><a href="#header-html">HTML Header ve Metatag yapıları</a></li>
     </ul>
   <li><a href="#semantic-html">Semantic HTML etiketleri</a></li>
-  <li>Blok ve inline elementler</li>
+  <li><a href="#block-inline-html">Blok ve inline elementler</a></li>
   <li>Liste etiketleri</li>
   <li>VS Code Emmet Kullanımı</li>
   <li>Tablo yapıları</li>
@@ -198,8 +198,18 @@
     <li>h1-h6 etiketleri</li>
   </ul>
   
- <h4>Inline Elementler</li>
+ <h4>Inline Elementler</h4>
   <ul>
     <li>span etiketi</li>
     <li>strong ve em etiketleri</li>
   </ul>
+  
+<h4>Inline Element</h4>
+<p>Inline elementler sadece kaplandığı alan kadar yer kaplarlar. Block elementlere nazaran tüm satırları değil, sadece yazıldığı alan kadar yer kaplamaktadır. Aşağıdaki örnekte gözüktüğü gibi</p>
+
+<img src="inline.png" alt="HTML5 Logo"/>
+
+<h4>Block Element</h4>
+<p>block elementler ise bulunduğu alan değil tüm satırı kaplar ve bir sonraki satıra geçiş yapmaktadır. Inline arasındaki en temel fark ise budur.</p>
+
+<img src="block.png" alt="HTML5 Logo"/>
