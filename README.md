@@ -183,3 +183,23 @@
     </tr>
   </tbody>
 </table>
+
+<h3 id="block-inline-html">Block ve Inline Etiketler</h3>
+<hr>
+
+<p>HTML yapılarında kullanırken block veya inline element etiketleri mevcuttur ve hepsini kendisine ait kullanımları mevcuttur. Özellikle sık olarak kullanılan inline ve block elementlere bakacağız.</p>
+
+<p>Detaylı kaynak açıklama makalesi: <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Inline_elements" target="_blank">MDN</a></p>
+
+<h4>Block Elementler</h4>
+  <ul>
+    <li>div etiketi</li>
+    <li>p etiketi</li>
+    <li>h1-h6 etiketleri</li>
+  </ul>
+  
+ <h4>Inline Elementler</li>
+  <ul>
+    <li>span etiketi</li>
+    <li>strong ve em etiketleri</li>
+  </ul>
