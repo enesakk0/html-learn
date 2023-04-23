@@ -219,5 +219,3 @@
 <hr>
 
 <p>HTML yapılarında iki tür liste kullanımı bulunmaktadır. Özellikle menü yapılarında kullanılmaktadır. Sıralı ve sırasız olmak üzere iki çeşit liste bulunmaktadır.</p>
-
-<h4>Sıralı Listeler</h4>
